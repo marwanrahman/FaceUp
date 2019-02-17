@@ -1,0 +1,4 @@
+#Sun Feb 17 07:21:22 EST 2019
+base.0=/Users/alex/Facial Recognition/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
