@@ -1,5 +1,5 @@
 # FaceUp
-An Android app on the An android app on the Vuzix Blade that recognizes faces to revolutionize the healthcare and security industries.
+An AR Android app for the Vuzix Blade to revolutionize the healthcare and security industries.
 
 # Winner of "Best use of AR/VR" at BrickHack V, Rochester Institute of Technology
 
